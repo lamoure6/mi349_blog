@@ -55,11 +55,21 @@ p {
     font-family: "Arial", Helvetica, sans-serif;
 }
 
-#blog-post p{
+div.content p{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+h2{
+    font-size: 1.25em;
+    margin-left: 1.25em
+}
+
+.blog-post p{
     margin-bottom: 0.5em;
 
 }
 
 img{
-    padding:0.5em;
+    padding:1em;
 }
