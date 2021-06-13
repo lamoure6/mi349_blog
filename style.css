@@ -31,8 +31,8 @@ header{
     top:0;
 }
 
-article{
-    display: flex;
+.paragraphs{
+    display:flex;
 }
 
 nav a:link{
