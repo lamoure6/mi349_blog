@@ -69,8 +69,12 @@ h3, #sign-up, table{
     margin-left: 1em;
 }
 
-table p{
-    padding: 0.25em;
+th{
+    text-align: left;
+}
+
+td{
+    padding: 0.25em 0.25em 0 0;
 }
 
 
