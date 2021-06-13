@@ -16,13 +16,13 @@ body{
 header, div.content{
     margin-right: auto;
     margin-left: auto;
-    margin-bottom:2em;
-    padding-bottom:1em;
     width: 1024px;
 }
 
 div.content{
     background-color: white;
+    margin-bottom:2em;
+    padding-bottom:1em;
 }
 
 header{
@@ -75,7 +75,7 @@ h3, #sign-up, table{
 }
 
 img{
-    margin:0 0 0.5em 0.4em;
+    margin:1.5em 0 0.5em 0;
 }
 
 ul{
