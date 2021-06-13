@@ -56,13 +56,12 @@ p {
 }
 
 div.content p{
-    margin-left: 1em;
-    margin-right: 1em;
+    margin: 0 1em 0 1em;
 }
 
 h2{
     font-size: 1.25em;
-    margin-left: 1.25em
+    margin-left: 0 0 0.5em 1em;
 }
 
 .blog-post p{
