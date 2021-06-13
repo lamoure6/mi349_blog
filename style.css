@@ -69,6 +69,10 @@ h3, #sign-up, table{
     margin-left: 1em;
 }
 
+table p{
+    padding: 0.25em;
+}
+
 
 #sign-up, #contact{
     padding-top: 1em;
