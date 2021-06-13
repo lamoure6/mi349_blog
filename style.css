@@ -8,7 +8,7 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
 }
 
 body{
-    background-color:rgb(219, 244, 244);
+    background-color:rgb(238, 238, 238);
 }
 
 header, div.content{
@@ -19,6 +19,7 @@ header, div.content{
 
 div.content{
     background-color: white;
+    margin:1em;
 }
 
 header{
@@ -55,8 +56,9 @@ p {
     font-family: "Arial", Helvetica, sans-serif;
 }
 
-div.content p{
-    margin-left: 0.5em
+#blog-post p{
+    margin-bottom: 0.5em;
+
 }
 
 img{
