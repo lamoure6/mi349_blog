@@ -45,6 +45,9 @@ header nav{
     text-align: right;
     padding: 0.5em;
     color: white;
+    background-color: rgb(54, 91, 92);
+    position: sticky;
+    top:0;
 }
 
 
