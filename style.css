@@ -9,7 +9,9 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
 
 body{
     background-color:rgb(220, 220, 220);
+    font-family: "Arial", Helvetica, sans-serif;
 }
+
 
 header, div.content{
     margin-right: auto;
@@ -51,9 +53,7 @@ h1{
     padding: 0.5em;
 }
 
-p {
-    font-family: "Arial", Helvetica, sans-serif;
-}
+
 
 div.content p{
     margin: 0 1em 0.5em 1em;
@@ -61,14 +61,13 @@ div.content p{
 
 h2{
     font-size: 1.25em;
-    margin: 0 0 0.5em 1em;
+    margin: 0 0 0.5em 0.8em;
 }
 
-.blog-post p{
-    margin-bottom: 0.5em;
-
+h3, #sign-up, table{
+    margin-left: 1em;
 }
 
 img{
-    margin:1em;
+    margin:0.6em;
 }
