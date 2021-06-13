@@ -74,9 +74,14 @@ th{
 }
 
 td{
-    padding: 0.25em 0.25em 0 0;
+    text-align: center;
+    padding-top: 0.25em;
 }
 
+td.exercise{
+    text-align: left;
+    padding-right: 0.5em;
+}
 
 #sign-up, #contact{
     padding-top: 1em;
