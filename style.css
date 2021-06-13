@@ -71,16 +71,16 @@ h3, #sign-up, table{
 
 th{
     text-align: left;
+    border-bottom: 1px solid black;
 }
 
 td{
     text-align: center;
-    padding-top: 0.25em;
+    padding: 0.25em 0.5em 0 0;
 }
 
 td.exercise{
     text-align: left;
-    padding-right: 0.5em;
 }
 
 #sign-up, #contact{
