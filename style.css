@@ -71,12 +71,12 @@ h3, #sign-up, table{
 
 th{
     text-align: left;
-    border-bottom: 1px solid black;
+    background-color: rgb(220, 220, 220);
 }
 
 td{
     text-align: center;
-    padding: 0.25em 0.5em 0 0;
+    margin: 0.25em 0.5em 0 0;
 }
 
 td.exercise{
