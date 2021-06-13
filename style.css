@@ -101,8 +101,6 @@ td.exercise{
 }
 
 #contact {
-    margin-left: auto;
-    margin-right: auto;
     display: flex;
 }
 
@@ -113,4 +111,10 @@ img{
 ul{
     margin: 0 0 1em 2.5em;
 
+}
+
+@media (max-width: 400px){
+    .paragraphs{
+        flex-direction: column;
+    }
 }
