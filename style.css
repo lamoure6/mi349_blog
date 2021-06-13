@@ -15,8 +15,27 @@ div {
 }
 
 header{
-    background-color:cadetblue
+    background-color:rgb(54, 91, 92)
 }
+
+nav a:link{
+    color:white;
+}
+
+nav a:hover {
+    color:darkgray;
+}
+
+nav a:visited{
+    color:rgb(206, 245, 245)
+}
+
+nav p{
+    text-align:right;
+    padding: 0.5em;
+}
+
+
 
 h1{
     font-size: 2em;
