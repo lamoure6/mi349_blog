@@ -56,7 +56,6 @@ h1{
 }
 
 
-
 div.content p{
     margin: 0 1em 0.5em 1em;
 }
@@ -70,8 +69,9 @@ h3, #sign-up, table{
     margin-left: 1em;
 }
 
-#sign-up{
-    margin-bottom: 1em;
+
+#sign-up, #contact{
+    margin-top: 1em;
 }
 
 img{
