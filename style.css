@@ -16,6 +16,7 @@ body{
 header, div.content{
     margin-right: auto;
     margin-left: auto;
+    margin-bottom:2em;
     width: 1024px;
 }
 
@@ -68,6 +69,19 @@ h3, #sign-up, table{
     margin-left: 1em;
 }
 
+#sign-up{
+    margin-bottom: 1em;
+}
+
+#contact{
+    margin: 1.em 0 1em 1em;
+}
+
 img{
-    margin:0.6em;
+    margin:1.5em 0 0.5em 0.4em;
+}
+
+ul{
+    margin-left: 0 0 1em 1.5em;
+
 }
