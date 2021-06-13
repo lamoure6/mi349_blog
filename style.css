@@ -67,7 +67,8 @@ h2{
 }
 
 h3, #sign-up, table{
-    margin-left: 1em;
+    font-size: 1.25em;
+    margin-left: 0 0 0.5em 0.8em;
 }
 
 th{
