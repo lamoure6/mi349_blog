@@ -17,6 +17,7 @@ header, div.content{
     margin-right: auto;
     margin-left: auto;
     margin-bottom:2em;
+    padding-bottom:1em;
     width: 1024px;
 }
 
@@ -74,10 +75,10 @@ h3, #sign-up, table{
 }
 
 img{
-    margin:1.5em 0 0.5em 0.4em;
+    margin:0 0 0.5em 0.4em;
 }
 
 ul{
-    margin: 0 0 1em 1.5em;
+    margin: 0 0 1em 2.5em;
 
 }
