@@ -7,40 +7,42 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
     border: 0;
 }
 body{
-    background-color:rgb(205, 235, 235);
+    background-color:rgb(219, 244, 244);
 }
 
-div {
-    background-color: white;
-}
 
 header{
     background-color:rgb(54, 91, 92)
 }
 
-nav a:link{
+a:link{
     color:white;
 }
 
-nav a:hover {
+a:hover {
     color:darkgray;
 }
 
-nav a:visited{
+a:visited{
     color:rgb(206, 245, 245)
 }
 
-nav p{
+header p{
+    text-align: center;
+}
+
+header nav{
     text-align:right;
     padding: 0.5em;
 }
-
 
 
 h1{
     font-size: 2em;
     color: white;
     font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 p {
