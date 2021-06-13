@@ -8,7 +8,7 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
 }
 
 body{
-    background-color:rgb(238, 238, 238);
+    background-color:rgb(220, 220, 220);
 }
 
 header, div.content{
@@ -19,7 +19,6 @@ header, div.content{
 
 div.content{
     background-color: white;
-    margin:1em;
 }
 
 header{
