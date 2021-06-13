@@ -101,6 +101,7 @@ td.exercise{
 }
 
 #contact {
+    text-align: center;
     display: flex;
 }
 
