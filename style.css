@@ -55,9 +55,10 @@ p {
     font-family: "Arial", Helvetica, sans-serif;
 }
 
+div.content p{
+    margin-left: 0.5em
+}
+
 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0.5em;
+    padding:0.5em;
 }
