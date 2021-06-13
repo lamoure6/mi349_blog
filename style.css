@@ -11,13 +11,13 @@ body{
     background-color:rgb(219, 244, 244);
 }
 
-header,#content{
+header, div.content{
     margin-right: auto;
     margin-left: auto;
     width: 1000px;
 }
 
-div #content{
+div.content{
     background-color: white;
 }
 
@@ -25,15 +25,15 @@ header{
     background-color:rgb(54, 91, 92)
 }
 
-a:link{
+nav a:link{
     color:white;
 }
 
-a:hover {
+nav a:hover {
     color:darkgray;
 }
 
-a:visited{
+nav a:visited{
     color:rgb(206, 245, 245)
 }
 
